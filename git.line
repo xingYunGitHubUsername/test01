@@ -1,0 +1,11 @@
+git add file1 file2 ...
+git status
+git commit -m "comment"
+git diff filename
+git diff HEAD -- filename
+git reset --hard HEAD^
+GIT RESET --hard HEAD~100
+git reset --hard commit_id
+git checkout -- filename
+git reset HEAD filename
+
