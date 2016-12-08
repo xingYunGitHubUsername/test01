@@ -9,4 +9,6 @@ git reset --hard commit_id
 git checkout -- filename
 git reset HEAD filename
 git remote add origin repository_url
+git remote add origin git@github.com:xingYunGitHubUsername/test01.git
 git push -u origin master
+git push origin master
