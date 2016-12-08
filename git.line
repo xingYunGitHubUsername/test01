@@ -8,4 +8,5 @@ GIT RESET --hard HEAD~100
 git reset --hard commit_id
 git checkout -- filename
 git reset HEAD filename
-
+git remote add origin repository_url
+git push -u origin master
